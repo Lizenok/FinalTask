@@ -33,7 +33,7 @@ void printArray(string[] array)
         Console.Write(array[i]);
         if (i < array.Length - 1)
         {
-            Console.Write(",\t");
+            Console.Write(", ");
         }
     }
         Console.WriteLine("]");
