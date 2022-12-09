@@ -1,0 +1,15 @@
+E:\Лиза\FinalTask\obj\Debug\net7.0\FinalTask.csproj.AssemblyReference.cache
+E:\Лиза\FinalTask\obj\Debug\net7.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\Лиза\FinalTask\obj\Debug\net7.0\FinalTask.AssemblyInfoInputs.cache
+E:\Лиза\FinalTask\obj\Debug\net7.0\FinalTask.AssemblyInfo.cs
+E:\Лиза\FinalTask\obj\Debug\net7.0\FinalTask.csproj.CoreCompileInputs.cache
+E:\Лиза\FinalTask\bin\Debug\net7.0\FinalTask.exe
+E:\Лиза\FinalTask\bin\Debug\net7.0\FinalTask.deps.json
+E:\Лиза\FinalTask\bin\Debug\net7.0\FinalTask.runtimeconfig.json
+E:\Лиза\FinalTask\bin\Debug\net7.0\FinalTask.dll
+E:\Лиза\FinalTask\bin\Debug\net7.0\FinalTask.pdb
+E:\Лиза\FinalTask\obj\Debug\net7.0\FinalTask.dll
+E:\Лиза\FinalTask\obj\Debug\net7.0\refint\FinalTask.dll
+E:\Лиза\FinalTask\obj\Debug\net7.0\FinalTask.pdb
+E:\Лиза\FinalTask\obj\Debug\net7.0\FinalTask.genruntimeconfig.cache
+E:\Лиза\FinalTask\obj\Debug\net7.0\ref\FinalTask.dll
